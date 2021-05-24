@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TrackInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackName>muu</TrackName>
+  <NumOfCheckpoints>1</NumOfCheckpoints>
+  <slist>
+    <string>Madasd</string>
+    <string>Madasd</string>
+    <string>Madasd</string>
+    <string>Madasd</string>
+    <string>Madasd</string>
+  </slist>
+</TrackInfo>
